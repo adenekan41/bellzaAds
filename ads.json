@@ -1,0 +1,36 @@
+
+{
+	"ads":[
+		{
+		"id":"4wewdfwe3wew",
+		"title": "DesignCo",
+		"details":"Your Content On The Muzli Medium Publication",
+		"image":"https://pbs.twimg.com/media/DvsjwUxWwAAwGA5.jpg",
+		"url":"https://twitter.com/",
+		"type":"Promoted",
+		"plan":1,
+		"adsLogo":"https://pbs.twimg.com/profile_images/936658794519711746/BttkpHBa_bigger.jpg",
+		},
+		{
+		"id":"4wewdfwe3wew",
+		"title": "DesignCo",
+		"details":"Your Content On The Muzli Medium Publication",
+		"image":"https://pbs.twimg.com/media/DvsjwUxWwAAwGA5.jpg",
+		"url":"https://twitter.com/",
+		"type":"Promoted",
+		"plan":1,
+		"adsLogo":"https://pbs.twimg.com/profile_images/936658794519711746/BttkpHBa_bigger.jpg",
+		},
+		{
+		"id":"4wewdfwe3wew",
+		"title": "DesignCo",
+		"details":"Your Content On The Muzli Medium Publication",
+		"image":"https://pbs.twimg.com/media/DvsjwUxWwAAwGA5.jpg",
+		"url":"https://twitter.com/",
+		"type":"Promoted",
+		"plan":2,
+		"adsLogo":"https://pbs.twimg.com/profile_images/936658794519711746/BttkpHBa_bigger.jpg",
+		},
+
+	]
+}

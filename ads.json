@@ -1,6 +1,5 @@
 
-{
-	"ads":[
+{"ads":[
 		{
 		"id":"4wewdfwe3wew",
 		"title": "DesignCo",
@@ -9,7 +8,7 @@
 		"url":"https://twitter.com/",
 		"type":"Promoted",
 		"plan":1,
-		"adsLogo":"https://pbs.twimg.com/profile_images/936658794519711746/BttkpHBa_bigger.jpg",
+		"adsLogo":"https://pbs.twimg.com/profile_images/936658794519711746/BttkpHBa_bigger.jpg"
 		},
 		{
 		"id":"4wewdfwe3wew",
@@ -19,7 +18,7 @@
 		"url":"https://twitter.com/",
 		"type":"Promoted",
 		"plan":1,
-		"adsLogo":"https://pbs.twimg.com/profile_images/936658794519711746/BttkpHBa_bigger.jpg",
+		"adsLogo":"https://pbs.twimg.com/profile_images/936658794519711746/BttkpHBa_bigger.jpg"
 		},
 		{
 		"id":"4wewdfwe3wew",
@@ -29,8 +28,8 @@
 		"url":"https://twitter.com/",
 		"type":"Promoted",
 		"plan":2,
-		"adsLogo":"https://pbs.twimg.com/profile_images/936658794519711746/BttkpHBa_bigger.jpg",
-		},
+		"adsLogo":"https://pbs.twimg.com/profile_images/936658794519711746/BttkpHBa_bigger.jpg"
+		}
 
 	]
 }

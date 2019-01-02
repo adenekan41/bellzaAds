@@ -2,31 +2,31 @@
 {"ads":[
 		{
 		"id":"4wewdfwe3wew",
-		"title": "DesignCo",
-		"details":"Your Content On The Muzli Medium Publication",
-		"image":"https://pbs.twimg.com/media/DvsjwUxWwAAwGA5.jpg",
-		"url":"https://twitter.com/",
+		"title": "Remote",
+		"details":"Connecting over 2 million professionals with remote and freelance jobs.",
+		"image":"https://remote.com/assets/images/landing/home/network-card.png",
+		"url":"https://remote.com/",
 		"type":"Promoted",
 		"plan":1,
 		"adsLogo":"https://pbs.twimg.com/profile_images/936658794519711746/BttkpHBa_bigger.jpg"
 		},
 		{
 		"id":"4wewdfwe3wew",
-		"title": "DesignCo",
-		"details":"Your Content On The Muzli Medium Publication",
-		"image":"https://pbs.twimg.com/media/DvsjwUxWwAAwGA5.jpg",
-		"url":"https://twitter.com/",
+		"title": "NameCheap",
+		"details":"Namecheap offers cheap domain names with the most reliable service.",
+		"image":"https://kinsta.com/wp-content/uploads/2016/12/namecheap-add-a-record-1.png",
+		"url":"https://namecheap.com/",
 		"type":"Promoted",
 		"plan":1,
 		"adsLogo":"https://pbs.twimg.com/profile_images/936658794519711746/BttkpHBa_bigger.jpg"
 		},
 		{
 		"id":"4wewdfwe3wew",
-		"title": "DesignCo",
-		"details":"Your Content On The Muzli Medium Publication",
-		"image":"https://pbs.twimg.com/media/DvsjwUxWwAAwGA5.jpg",
-		"url":"https://twitter.com/",
-		"type":"Promoted",
+		"title": "Glassdoor Jobs",
+		"details":"Search millions of jobs and get the inside scoop on companies with employee reviews",
+		"image":"https://www.glassdoor.com/app/static/img/partners/fb/logo-1200x630.png?v=721f9cswl",
+		"url":"https://www.glassdoor.com/index.htm",
+		"type":"Advert",
 		"plan":2,
 		"adsLogo":"https://pbs.twimg.com/profile_images/936658794519711746/BttkpHBa_bigger.jpg"
 		}
